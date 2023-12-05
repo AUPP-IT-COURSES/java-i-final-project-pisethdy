@@ -13,7 +13,7 @@ public class MyJDBC {
     // database configurations
     private static final String DB_URL = "jdbc:mysql://127.0.0.1:3306/bankapp";
     private static final String DB_USERNAME = "root";
-    private static final String DB_PASSWORD = "none";
+    private static final String DB_PASSWORD = "Pis$eth01";
 
     // if valid return an object with the user's information
     public static User validateLogin(String username, String password){
